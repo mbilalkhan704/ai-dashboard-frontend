@@ -17,7 +17,7 @@ export default function Dashboard() {
           <div className="flex flex-row gap-2">
             <CalendarMonthIcon />
             <h3 className="text-black font-bold text-lg">
-              Jan 1, 2023 - Feb 1, 2023
+              Jan 1, 2026 - Feb 1, 2026
             </h3>
           </div>
         </div>
